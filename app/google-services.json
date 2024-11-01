@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "145059782840",
+    "firebase_url": "https://tejahospitals-d4a2f-default-rtdb.firebaseio.com",
+    "project_id": "tejahospitals-d4a2f",
+    "storage_bucket": "tejahospitals-d4a2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145059782840:android:68ae560ecc2c7ae600544d",
+        "android_client_info": {
+          "package_name": "canadore.com.bijjahospitals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADfe_NLN0hS3Xm8_rIQd3Yi639FX0M93c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145059782840:android:486f3b987d5d78cd00544d",
+        "android_client_info": {
+          "package_name": "com.example.sqlitedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADfe_NLN0hS3Xm8_rIQd3Yi639FX0M93c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
